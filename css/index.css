@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.left{
+	margin:0 0.25rem 0 0.25rem;
+}
+.swiper-slide {
+	line-height: 300px;
+	color: #fff;
+	font-size: 36px;
+	text-align: center;
+}
+.title01{
+	height: 0.9rem;
+	line-height: 0.9rem;
+	font-size: 0.38rem;
+}
+.hr02{
+	color:#c1c1c1;
+}
+.font-block{
+	width: 1.56em;
+	height: 0.61em;
+	margin-top: 0.2rem;
+	background-color: #00b1bb;
+	
+}
+.font-block p{
+	font-size: 0.36rem;
+	color:#fff;
+	line-height: 0.61rem;
+	text-align: center;
+}
+.text01{
+	margin-top: 0.24rem;
+}
+.text01 p{
+	font-size: 0.19rem;
+	line-height: 0.20rem;
+}
